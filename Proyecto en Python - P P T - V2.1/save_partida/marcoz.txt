@@ -1,0 +1,4 @@
+Jugador: Marcoz | Puntos jugador: 3 | Puntos computadora: 4 | Resultado: Ganó la computadora
+Jugador: Marcoz | Puntos jugador: 1 | Puntos computadora: 0 | Resultado: Ganó el jugador
+Jugador: Marcoz | Puntos jugador: 1 | Puntos computadora: 1 | Resultado: Empate
+Jugador: Marcoz | Puntos jugador: 0 | Puntos computadora: 0 | Resultado: Empate
