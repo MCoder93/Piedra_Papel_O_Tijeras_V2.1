@@ -1,4 +1,4 @@
-# 🧩 Programación en Python
+#🐺 Proyecto en Python
 'Juego de Piedra, Papel o Tijeras V2.0.'
 
 import os
@@ -130,4 +130,5 @@ print(f'\n Fin de la partida, ¡Adios {nombre_jugador}! Vuelve más tarde para v
 
 print('\n Última Actualización Aplicada: 17-10-2025 \n')
 print('By: MBusterCodeWolf-DevOps93 🐺')
+
 
